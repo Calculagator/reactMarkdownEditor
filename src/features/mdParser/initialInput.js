@@ -15,6 +15,9 @@ You can also put code \`inline\`.
 and fun **bold**
 
 > How about a block quote: lorem ipsem etc
+
+And an image!
+![freeCodeCamp Logo](https://cdn.freecodecamp.org/testable-projects-fcc/images/fcc_secondary.svg)
 `;
 const initialInput = `
 # Welcome to my React Markdown Previewer!
@@ -64,4 +67,4 @@ And here. | Okay. | I think we get it.
 `;
 
 
-export default initialInput;
+export default junk;
